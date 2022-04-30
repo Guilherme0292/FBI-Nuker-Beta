@@ -10,7 +10,7 @@
 
 ***
 # Pré-visualização
-![](https://media.discordapp.net/attachments/744606263811506176/798978368510885928/unknown.png?width=452&height=567)
+![](https://media.discordapp.net/attachments/925212833619251211/970046495728500786/unknown.png)
 
 ***
 # Instalação:
