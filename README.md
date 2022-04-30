@@ -1,5 +1,13 @@
-# FBI Nuker Beta | By user 001, dan 002 and brunin 003
+# FBI Nuker Beta
 * Python 3.6 - 3.8
+
+# Créditos
+* Criador e autor: user 001.
+* Ajudante: dan 002.
+* Ajudante de tradução: brunin 003.
+# Copyright
+
+(c) 2022 FBI FIVE-0, **user 001**
 ***
 # Recursos
  - [x] Excluir canais
@@ -13,8 +21,22 @@
 ![](https://media.discordapp.net/attachments/925212833619251211/970046495728500786/unknown.png)
 
 ***
-# Instalação:
-## Android (Termux):
+# Instalação
+
+## Linux, Windows:
+
+```console
+git clone https://github.com/user001js/FBI-Nuker-Beta
+
+cd FBI-Nuker-Beta
+
+python -m pip install -r requirements.txt
+
+python3 easy-fbi-nuker.pyc
+```
+
+## Android, Termux:
+
 ```console
 apt update && apt upgrade
 
@@ -26,25 +48,20 @@ cd FBI-Nuker-Beta
 
 python -m pip install -r requirements.txt
 
-python easy-fbi-nuker.py
+python easy-fbi-nuker.pyc
 ```
+
 **[Lançamentos subsequentes]**
+
 ```console
 cd FBI-Nuker-Beta
 
-python easy-fbi-nuker.py
+python easy-fbi-nuker.pyc
 ```
-## Linux/Windows
-```console
-git clone https://github.com/user001js/FBI-Nuker-Beta
 
-cd FBI-Nuker-Beta
-
-python -m pip install -r requirements.txt
-
-python3 easy-fbi-nuker.py
-```
 
 ***
 # Rodando
-É muito simples! Entre com o comando `python easy-fbi-nuker.py` or `python3 easy-fbi-nuker.py` e a interface do Nuker irá ser aberta e você poderá utilizar o FBI Nuker.
+É muito simples! Entre com o comando `python easy-fbi-nuker.pyc` ou `python3 easy-fbi-nuker.pyc` e a interface do FBI Nuker irá ser aberta e você poderá utilizar o FBI Nuker.
+
+**(c) 2022 FBI FIVE-0**
