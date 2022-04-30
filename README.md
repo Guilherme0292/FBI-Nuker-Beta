@@ -9,12 +9,18 @@
 
 (c) 2022 FBI FIVE-0, **user 001**
 ***
+# Requisitos (Painel)
+- [x] Token do bot
+- [x] ID do servidor que você deseja destruir
+- [x] Permissões necessárias: Administrador (recomendada)
+- [x] Gateway Intents (Discord Developers Portal)
 # Recursos
+ - [x] Excluir cargos
+ - [x] Criar canais
  - [x] Excluir canais
  - [x] Banir todos os membros
- - [x] Excluir funções
- - [x] Criar canais
- - [ ] Criar funções
+ - [x] Enviar mensagens personalizadas
+ - [ ] Criar cargos
 
 ***
 # Pré-visualização
