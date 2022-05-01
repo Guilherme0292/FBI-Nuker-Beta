@@ -1,6 +1,9 @@
 # FBI Nuker Beta
 * Python 3.6 - 3.8
 
+# **Observação**
+
+Após estar com a pasta tudo certinho, mude o nome do arquivo `easy-fbi-nuker.cpython-310.pyc` para `easy-fbi-nuker.pyc`. **Isso é de extrema importância para o funcionamento do FBI Nuker!**
 # Créditos
 * Criador e autor: user 001.
 * Ajudante: dan 002.
